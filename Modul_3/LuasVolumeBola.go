@@ -17,6 +17,6 @@ func main() {
 	vbola = (4.0 / 3.0) * pi * float64(r * r * r)
 	lbola = 4 * pi * float64(r * r)
 
-	fmt.Print("volume bola = ", vbola)
+	fmt.Println("volume bola = ", vbola)
 	fmt.Println("luas bola = ", lbola)
 }
